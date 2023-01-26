@@ -1,0 +1,57 @@
+{
+  "duracion": 123213,
+  "ejercicios": [
+    {
+      "nombre": "press banca",
+      "series": [
+        {
+          "peso": 60,
+          "repeticiones": 8
+        },
+        {
+          "peso": 60,
+          "repeticiones": 7
+        },
+        {
+          "peso": 43,
+          "repeticiones": 8
+        }
+      ]
+    },
+    {
+      "nombre": "press hombro",
+      "series": [
+        {
+          "peso": 60,
+          "repeticiones": 8
+        },
+        {
+          "peso": 60,
+          "repeticiones": 7
+        },
+        {
+          "peso": 43,
+          "repeticiones": 8
+        }
+      ]
+    },
+    {
+      "nombre": "remo",
+      "series": [
+        {
+          "peso": 20,
+          "repeticiones": 8
+        },
+        {
+          "peso": 30,
+          "repeticiones": 7
+        },
+        {
+          "peso": 43,
+          "repeticiones": 8
+        }
+      ]
+    }
+  ]
+}
+
